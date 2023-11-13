@@ -1,0 +1,16 @@
+{
+  "name": "codember",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CHALLENGE_01.js",
+  "scripts": {
+    "dev": "node --watch --trace-warnings",
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
