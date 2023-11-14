@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Codember 2023
 
 ![codember](https://github.com/AngelDarco/codember_2023/assets/29819444/2c2e02b5-3cca-42cd-89a1-c956541903e3)
