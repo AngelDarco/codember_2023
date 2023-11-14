@@ -1,0 +1,42 @@
+# Codember
+
+![codember](https://github.com/AngelDarco/codember_2023/assets/29819444/2c2e02b5-3cca-42cd-89a1-c956541903e3)
+
+## [Codember](https://codember.dev/) 2023 - Solved challenges and clues to the secrets.
+
+_created by [@midudev](https://github.com/midudev/)_
+
+| [Codember](https://codember.dev/) | [Challenges](#challenges) | [Secrets](#secrets) |
+| --------------------------------- | ------------------------- | ------------------- |
+
+## Challenges
+
+#### `CHALLENGE_01:`
+
+> **[NodeJs](./CHALLENGE_01.js)**
+
+- > _[Test](./CHALLENGE_01.test.js)_
+
+#
+
+#### `CHALLENGE_02:`
+
+> **[NodeJs](./CHALLENGE_02.js)**
+
+- > _[Test](./CHALLENGE_02.test.js)_
+
+#
+
+## Secrets
+
+- 01 - He is a `CEO` - the image
+- 02 - Use the `email` command
+- 03 - The `konami` code was created by Kazuhisa Hashimoto in 1986
+
+#
+
+- 04 - Use the `email` command
+- 05 - May you wanna use some of `confetti`
+- 06 - Even Harry Potter used the `the most famous magic word`
+
+#
