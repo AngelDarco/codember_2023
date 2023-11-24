@@ -27,6 +27,14 @@ _created by [@midudev](https://github.com/midudev/)_
 
 #
 
+#### `CHALLENGE_03:`
+
+> **[NodeJs](./CHALLENGE_03.js)**
+
+- > _[Test](./CHALLENGE_03.test.js)_
+
+#
+
 ## Secrets
 
 - 01 - He is a `CEO` - the image
@@ -38,5 +46,11 @@ _created by [@midudev](https://github.com/midudev/)_
 - 04 - Use the `email` command
 - 05 - May you wanna use some of `confetti`
 - 06 - Even Harry Potter used the `the most famous magic word`
+
+#
+
+- 07 - The image `ia`.webp
+- 08 - Read carefully the `log_mars_mission.txt` file
+- 09 - `Do` something with the new command.
 
 #
