@@ -549,6 +549,3 @@ const text = `8-10 r: ozrcdfnug
 
 console.log(solution(text));
 module.exports = { solution, text };
-
-// protagonist of a story of betrayals and plot twists
-// Alex will be able to return to Earth and watch the streams on Twitch
