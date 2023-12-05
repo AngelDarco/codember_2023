@@ -43,6 +43,14 @@ _created by [@midudev](https://github.com/midudev/)_
 
 #
 
+#### `CHALLENGE_05:`
+
+> **[NodeJs](./CHALLENGE_05.js)**
+
+- > _[Test](./CHALLENGE_05.test.js)_
+
+#
+
 ## Secrets
 
 - 01 - He is a `CEO` - the image
@@ -63,9 +71,9 @@ _created by [@midudev](https://github.com/midudev/)_
 
 #
 
-- 10 - follow the `cow`
+- 10 - Follow the `cow`
 - 11 - Read carefully the `final_log_mars_mission.txt` file
-- 12 - `Solve the riddle`.
+- 12 - Read the mail 5 and `Solve the riddle`.
 - 13 - `Just play a game.`
 
 #
