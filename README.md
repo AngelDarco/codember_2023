@@ -2,6 +2,8 @@
 
 ![codember](https://github.com/AngelDarco/codember_2023/assets/29819444/2c2e02b5-3cca-42cd-89a1-c956541903e3)
 
+Welcome to my GitHub repository, where I present my solutions to an extensive range of coding challenges sourced from the Codember platform. Dive into this curated collection to explore meticulously solved and explained problems, meticulously crafted to enhance your problem-solving skills and deepen your understanding of algorithms and data structures. Whether you're a coding enthusiast, a student preparing for technical interviews, or a seasoned developer seeking fresh challenges, this repository serves as your gateway to mastering the art of problem-solving on Codember.
+
 ## [Codember](https://codember.dev/) 2023 - Solved challenges and clues to the secrets.
 
 _created by [@midudev](https://github.com/midudev/)_
